@@ -1,0 +1,6 @@
+{
+  "todos": [
+    { "id": "1", "title": "Do homework", "checked": "false" },
+    { "id": "2", "title": "Play football", "checked": "true" }
+  ]
+}
